@@ -28,7 +28,7 @@ jobs:
           # Options
           user: yanfeng1992
           template: classic
-          base: header
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_followup_sections: user
