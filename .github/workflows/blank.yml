@@ -30,3 +30,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_notable: yes
