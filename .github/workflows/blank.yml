@@ -32,6 +32,4 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_followup_sections: user
-          plugin_contributors: yes
-          plugin_contributors_contributions: yes
           plugin_notable: yes
