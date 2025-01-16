@@ -34,5 +34,4 @@ jobs:
           plugin_followup_sections: user
           plugin_notable: yes
           plugin_notable_types: commit,pull_request,issue
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
+          plugin_notable_from: all
